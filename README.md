@@ -1,6 +1,9 @@
 # .Leikvelir
 Verkefni fyrir áfanga VEFÞ3VÞ05DU.
 
+<h3> Hver er  tilgangurinn með síðunni/appinu. </h3>
+  *Geta veit fólki léttan aðgang að leiksvæðum/Veitingar stöðum sem bjóða uppá leiksvæði fyrir krakka.
+  
 <h3> Tilgreinið alla notendur apps með að nota user stories og user scenarios (who, what, why), sýnidæmi.</h3>
   Síðunni/appinu er vísað á almenning fyrir 10 ára og eldi. yfir
   Almenningur 10ára og upp, Leita að leiksvæðum og veitingastöðum sem eru opnir fyrir því að veita börnum virknastrafsemi utan hús.
