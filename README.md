@@ -1,15 +1,20 @@
 # .Leikvelir
 Verkefni fyrir áfanga VEFÞ3VÞ05DU.
-
-<h3> Hver er  tilgangurinn með síðunni/appinu. </h3>
-  *Geta veit fólki léttan aðgang að leiksvæðum/Veitingar stöðum sem bjóða uppá leiksvæði fyrir krakka.
-  
 <h3> Tilgreinið alla notendur apps með að nota user stories og user scenarios (who, what, why), sýnidæmi.</h3>
-  Síðunni/appinu er vísað á almenning fyrir 10 ára og eldi. yfir
-  Almenningur 10ára og upp, Leita að leiksvæðum og veitingastöðum sem eru opnir fyrir því að veita börnum virknastrafsemi utan hús.
+<h3> Hver er  tilgangurinn með síðunni/appinu. </h3>
+  * Geta veit fólki léttan aðgang að leiksvæðum/Veitingar stöðum sem bjóða uppá leiksvæði fyrir krakka.
+<h3>Hverji munu nota síðuna/appið. </h3>
+  * Krakkar.
+  * Foreldrar.
+  * Hóp skipulegjarar.
+  * Almenningur.
+<h3> Hvað er notandi að leitast eftir á síðunni/appinu. </h3>
+ * Leiksvæði sem er við hæfi fyrir krakkan sinn / hópinn af krökkum.
+ * Leiksvæði sem hentar hóp leikjum fyrir krakka.
+ * Veitinga staði sem bjóða uppá skam skemmtun fyrir krakka til að stytta biðtíma.
+ * Veitinga staði sem bjóða uppá upplifun fyrir krakkana þeirra.
+<h3> Hvernig er viðmótið á síðunni? </h3>
 
-
-  Hver er tilgangurinn eð síðunni/appinu, leyfa fólki að geta leitað af stöðum sem bjóða uppá leik svæði fyrir krakka utan dyra og rate-a þá eftir sýnum. gefið verið valmöguleiki um hvort vilt byrja að leita af, svo getur það notað filtersearch eða nálægt mér leit til að fynna leikvelli/veitingastaði. þegar búið er að velja stað opnast card með upplýsingum um hann með korti og myndum.
 
 
 UserStories:
