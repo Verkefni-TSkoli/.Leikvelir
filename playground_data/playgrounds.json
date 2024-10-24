@@ -1,0 +1,38 @@
+[
+	{
+        "Name": "Playground 1",
+        "Location": "Location 1",
+        "OpeningHours": "08:00 - 20:00",
+        "MinimumAge": 3,
+        "AvailableActivities": {
+            "Infant-Swings" : 1,
+            "Tire-Swings" : 1,
+            "Ballance-Swings" : 1,
+            "Big-Basket-Swings" : 1,
+            "Slide": 1,
+            "Sandbox": 1,
+            "Climbing-Frame" : 1,
+            "Castle" : 1,
+            "Painted-Road" : 0
+        },
+        "NearbyFacilities": {
+            "Parking" : 1,
+            "Toilets" : 1,
+            "Food & Drinks" : 1
+        }
+	},
+    {
+        "Name": "Austurborg",
+        "Location":
+            {
+                "Street": "Háaleitisbraut 70",
+                "City": "Reykjavík",
+                "PostalCode": 103,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            }
+    }
+]
