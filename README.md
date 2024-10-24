@@ -1,7 +1,7 @@
 # .Leikvelir
 Verkefni fyrir áfanga VEFÞ3VÞ05DU.
 
-* Tilgreinið alla notendur apps með að nota user stories og user scenarios (who, what, why), sýnidæmi.
+*  h1 Tilgreinið alla notendur apps með að nota user stories og user scenarios (who, what, why), sýnidæmi.
   Síðunni/appinu er vísað á almenning fyrir 10 ára og eldi. yfir
   Almenningur 10ára og upp, Leita að leiksvæðum og veitingastöðum sem eru opnir fyrir því að veita börnum virknastrafsemi utan hús.
 
