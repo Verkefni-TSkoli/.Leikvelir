@@ -1,4 +1,11 @@
 # .Leikvelir
+
+
+## skoða HTMX og Jango ##
+## ALLIR FYRIR NÆSTA TÍMA ##
+## ANNARS VERÐUR DILJÁ REIÐ!! ##
+
+
 Verkefni fyrir áfanga VEFÞ3VÞ05DU.
 <h3> Tilgreinið alla notendur apps með að nota user stories og user scenarios (who, what, why), sýnidæmi.</h3>
 <h3> Hver er  tilgangurinn með síðunni/appinu. </h3>
@@ -14,6 +21,7 @@ Verkefni fyrir áfanga VEFÞ3VÞ05DU.
  * Veitinga staði sem bjóða uppá skam skemmtun fyrir krakka til að stytta biðtíma.
  * Veitinga staði sem bjóða uppá upplifun fyrir krakkana þeirra.
 <h3> Hvernig er viðmótið á síðunni? </h3>
+![Screenshot 2024-10-24 103923](https://github.com/user-attachments/assets/313f39e4-ca9f-4bab-a244-4f40825b3090)
 
 
 
