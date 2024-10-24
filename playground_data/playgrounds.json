@@ -34,5 +34,33 @@
                         "Longitude": -21.902
                     }
             }
+    },
+    {
+        "Name": "Austurborg",
+        "Location":
+            {
+                "Street": "Háaleitisbraut 70",
+                "City": "Reykjavík",
+                "PostalCode": 103,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            }
+    },
+    {
+        "Name": "Austurborg",
+        "Location":
+            {
+                "Street": "Háaleitisbraut 70",
+                "City": "Reykjavík",
+                "PostalCode": 103,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            }
     }
 ]
