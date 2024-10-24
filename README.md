@@ -1,4 +1,11 @@
 # .Leikvelir
+
+
+## skoða HTMX og Jango ##
+## ALLIR FYRIR NÆSTA TÍMA ##
+## ANNARS VERÐUR DILJÁ REIÐ!! ##
+
+
 Verkefni fyrir áfanga VEFÞ3VÞ05DU.
 <h3> Tilgreinið alla notendur apps með að nota user stories og user scenarios (who, what, why), sýnidæmi.</h3>
 <h3> Hver er  tilgangurinn með síðunni/appinu. </h3>
