@@ -1,27 +1,26 @@
 [
 	{
-        "Name": "Playground 1",
+        "Name": "placeholder 1",
         "Location": "Location 1",
         "OpeningHours": "08:00 - 20:00",
         "MinimumAge": 3,
         "AvailableActivities": {
-            "Infant-Swings" : 1,
-            "Tire-Swings" : 1,
-            "Ballance-Swings" : 1,
-            "Big-Basket-Swings" : 1,
-            "Slide": 1,
-            "Sandbox": 1,
-            "Climbing-Frame" : 1,
-            "Castle" : 1,
-            "Painted-Road" : 0
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : true
         },
         "NearbyFacilities": {
-            "Parking" : 1,
-            "Toilets" : 1,
-            "Food & Drinks" : 1
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
         }
-	},
-    {
+	},{
         "Name": "Austurborg",
         "Location":
             {
@@ -33,34 +32,2713 @@
                         "Latitude": 64.139,
                         "Longitude": -21.902
                     }
-            }
-    },
-    {
-        "Name": "Austurborg",
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Askja",
         "Location":
             {
-                "Street": "Háaleitisbraut 70",
+                "Street": "Nauthólsvegur 87",
                 "City": "Reykjavík",
-                "PostalCode": 103,
+                "PostalCode": 102,
                 "GeoLocation":
                     {
                         "Latitude": 64.139,
                         "Longitude": -21.902
                     }
-            }
-    },
-    {
-        "Name": "Austurborg",
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/askja.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Álftaborg",
         "Location":
             {
-                "Street": "Háaleitisbraut 70",
+                "Street": "Safamýri 30",
                 "City": "Reykjavík",
-                "PostalCode": 103,
+                "PostalCode": 108,
                 "GeoLocation":
                     {
                         "Latitude": 64.139,
                         "Longitude": -21.902
                     }
-            }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/alftaborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Árborg",
+        "Location":
+            {
+                "Street": "Hlaðbær 17",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ártúnsskóli",
+        "Location":
+            {
+                "Street": "Árkvörn 4",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Bakkaborg",
+        "Location":
+            {
+                "Street": "Blöndubakki 2-4",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Bjartahlíð",
+        "Location":
+            {
+                "Street": "Grænahlíð 24 / Stakkahlíð 19",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Berg",
+        "Location":
+            {
+                "Street": "Kollagrund 6",
+                "City": "Reykjavík",
+                "PostalCode": 116,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Bakkakot",
+        "Location":
+            {
+                "Street": "Bakkastaðir 77",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Blásalir",
+        "Location":
+            {
+                "Street": "Brekknás 4",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Borg",
+        "Location":
+            {
+                "Street": "Maríubakki 1 / Fálkabakki 9",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Brákarborg",
+        "Location":
+            {
+                "Street": "",
+                "City": "Reykjavík",
+                "PostalCode": 104,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Drafnarsteinn",
+        "Location":
+            {
+                "Street": "Drafnarstígur 4 / Seljavegur 12",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Dalskóli",
+        "Location":
+            {
+                "Street": "Úlfarsbraut 118–122",
+                "City": "Reykjavík",
+                "PostalCode": 113,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Brekkuborg",
+        "Location":
+            {
+                "Street": "Hlíðarhús 1",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Engjaborg",
+        "Location":
+            {
+                "Street": "Reyrengi 11",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Fífuborg",
+        "Location":
+            {
+                "Street": "Fífurimi 13",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Fossakot",
+        "Location":
+            {
+                "Street": "Fossaleynir 4",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Geislabaugur",
+        "Location":
+            {
+                "Street": "Kristnibraut 26",
+                "City": "Reykjavík",
+                "PostalCode": 113,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Furuskógur",
+        "Location":
+            {
+                "Street": "Áland / Efstaland 28",
+                "City": "Reykjavík",
+                "PostalCode": 108,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Funaborg",
+        "Location":
+            {
+                "Street": "Funafold 42",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Grandaborg",
+        "Location":
+            {
+                "Street": "Boðagrandi 9 / Fornhagi 8",
+                "City": "Reykjavík",
+                "PostalCode": 107,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Grænaborg",
+        "Location":
+            {
+                "Street": "Eiríksgata 2",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Gullborg",
+        "Location":
+            {
+                "Street": "Rekagrandi 14",
+                "City": "Reykjavík",
+                "PostalCode": 107,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hálsaskógur",
+        "Location":
+            {
+                "Street": "Hálsasel 27-29",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hamrar",
+        "Location":
+            {
+                "Street": "Hamravík 12",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hagaborg",
+        "Location":
+            {
+                "Street": "Fornhagi 8",
+                "City": "Reykjavík",
+                "PostalCode": 107,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Heiðarborg",
+        "Location":
+            {
+                "Street": "Selásbraut 56",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hlíð",
+        "Location":
+            {
+                "Street": "Engihlíð 6-8 / Eskihlíð 17",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hof",
+        "Location":
+            {
+                "Street": "Gullteigur 19",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hraunborg",
+        "Location":
+            {
+                "Street": "Hraunberg 10",
+                "City": "Reykjavík",
+                "PostalCode": 111,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hólaborg",
+        "Location":
+            {
+                "Street": "Suðurhólar 21",
+                "City": "Reykjavík",
+                "PostalCode": 111,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Holt",
+        "Location":
+            {
+                "Street": "Völvufell 7 & 9",
+                "City": "Reykjavík",
+                "PostalCode": 111,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Hulduheimar",
+        "Location":
+            {
+                "Street": "Vættaborgir 11",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Jöklaborg",
+        "Location":
+            {
+                "Street": "Jöklasel 4",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Jöklaborg",
+        "Location":
+            {
+                "Street": "Jöklasel 4",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Jörfi",
+        "Location":
+            {
+                "Street": "Hæðargarður 27a",
+                "City": "Reykjavík",
+                "PostalCode": 108,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Korpukot",
+        "Location":
+            {
+                "Street": "Fossaleynir 12",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Klettaborg",
+        "Location":
+            {
+                "Street": "Dyrhamrar 5",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Klambrar",
+        "Location":
+            {
+                "Street": "Háteigsvegur 33",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Krílasel",
+        "Location":
+            {
+                "Street": "Rangársel 8",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Kvistaborg",
+        "Location":
+            {
+                "Street": "Kvistaland 26",
+                "City": "Reykjavík",
+                "PostalCode": 108,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Langholt",
+        "Location":
+            {
+                "Street": "Sólheimar 19 og 21",
+                "City": "Reykjavík",
+                "PostalCode": 104,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Laugasól",
+        "Location":
+            {
+                "Street": "Leirulækur 4-6",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Laufskálar",
+        "Location":
+            {
+                "Street": "Laufrimi 9",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Laufásborg",
+        "Location":
+            {
+                "Street": "Laufásvegur 53-55",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Lundur",
+        "Location":
+            {
+                "Street": "Kleppsgarðar 2",
+                "City": "Reykjavík",
+                "PostalCode": 104,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Lyngheimar",
+        "Location":
+            {
+                "Street": "Mururimi 2",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Maríuborg",
+        "Location":
+            {
+                "Street": "Maríubaugur 3",
+                "City": "Reykjavík",
+                "PostalCode": 113,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Múlaborg",
+        "Location":
+            {
+                "Street": "Ármúli 8a",
+                "City": "Reykjavík",
+                "PostalCode": 108,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Miðborg",
+        "Location":
+            {
+                "Street": "Lindargata 26 / Njálsgata 70",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Mánagarður",
+        "Location":
+            {
+                "Street": "Eggertsgata 30–34",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Nóaborg",
+        "Location":
+            {
+                "Street": "Stangarholt 11",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ós",
+        "Location":
+            {
+                "Street": "Skerplugata 1",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Rauðaborg",
+        "Location":
+            {
+                "Street": "Viðarás 9",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Reynisholt",
+        "Location":
+            {
+                "Street": "Gvendargeisli 13",
+                "City": "Reykjavík",
+                "PostalCode": 113,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Regnboginn",
+        "Location":
+            {
+                "Street": "Bleikjukvísl 10",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Rauðhóll",
+        "Location":
+            {
+                "Street": "Sandavað 7 - Árvað 3 - Elliðabraut 26",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Seljakot",
+        "Location":
+            {
+                "Street": "Rangársel 15",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Seljaborg",
+        "Location":
+            {
+                "Street": "Tungusel 2",
+                "City": "Reykjavík",
+                "PostalCode": 109,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Rofaborg",
+        "Location":
+            {
+                "Street": "Skólabær 2",
+                "City": "Reykjavík",
+                "PostalCode": 110,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Skerjagarður",
+        "Location":
+            {
+                "Street": "Bauganes 13",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Sólborg",
+        "Location":
+            {
+                "Street": "Vesturhlíð 1",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Sólgarður",
+        "Location":
+            {
+                "Street": "Eggertsgata 8",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Suðurborg",
+        "Location":
+            {
+                "Street": "Suðurhólar 19",
+                "City": "Reykjavík",
+                "PostalCode": 111,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Steinahlíð",
+        "Location":
+            {
+                "Street": "Við Suðurlandsbraut",
+                "City": "Reykjavík",
+                "PostalCode": 108,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Stakkaborg",
+        "Location":
+            {
+                "Street": "Bólstaðarhlíð 38",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Sæborg",
+        "Location":
+            {
+                "Street": "Starhagi 11",
+                "City": "Reykjavík",
+                "PostalCode": 107,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Sunnufold",
+        "Location":
+            {
+                "Street": "Frostafold 33 / Logafold 18",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Sunnuás",
+        "Location":
+            {
+                "Street": "Dyngjuvegur 18",
+                "City": "Reykjavík",
+                "PostalCode": 104,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Sælukot",
+        "Location":
+            {
+                "Street": "Þorragata 1",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Tjörn",
+        "Location":
+            {
+                "Street": "Öldugötu 19, Tjarnargötu 33",
+                "City": "Reykjavík",
+                "PostalCode": 101,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ársól",
+        "Location":
+            {
+                "Street": "Völundarhús 1",
+                "City": "Reykjavík",
+                "PostalCode": 112,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Vesturborg",
+        "Location":
+            {
+                "Street": "Hagamelur 55",
+                "City": "Reykjavík",
+                "PostalCode": 107,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ungbarnaleikskólinn við Hallgerðargötu - Bríetartún",
+        "Location":
+            {
+                "Street": "Hallgerðargata 11B",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ungbarnaleikskólinn við Bríetartún",
+        "Location":
+            {
+                "Street": "Bríetartún 11",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Vinaminni",
+        "Location":
+            {
+                "Street": "Asparfell 10",
+                "City": "Reykjavík",
+                "PostalCode": 111,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Vinagerði",
+        "Location":
+            {
+                "Street": "Langagerði 1",
+                "City": "Reykjavík",
+                "PostalCode": 108,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Vinagarður - Leikskóli Kristnifélagsins",
+        "Location":
+            {
+                "Street": "Holtavegur 28",
+                "City": "Reykjavík",
+                "PostalCode": 104,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Waldorfleikskólinn Sólstafir",
+        "Location":
+            {
+                "Street": "Sóltún 6",
+                "City": "Reykjavík",
+                "PostalCode": 105,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ægisborg",
+        "Location":
+            {
+                "Street": "Ægisíða 104",
+                "City": "Reykjavík",
+                "PostalCode": 107,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ævintýraborg í Vogabyggð",
+        "Location":
+            {
+                "Street": "Naustavogur 13",
+                "City": "Reykjavík",
+                "PostalCode": 104,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ösp",
+        "Location":
+            {
+                "Street": "Iðufell 16",
+                "City": "Reykjavík",
+                "PostalCode": 111,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ævintýraborg við Nauthólsveg",
+        "Location":
+            {
+                "Street": "Nauthólsvegur 81",
+                "City": "Reykjavík",
+                "PostalCode": 102,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
+    },{
+        "Name": "Ævintýraborg við Eggertsgötu",
+        "Location":
+            {
+                "Street": "Eggertsgata 35",
+                "City": "Reykjavík",
+                "PostalCode": 102,
+                "GeoLocation":
+                    {
+                        "Latitude": 64.139,
+                        "Longitude": -21.902
+                    }
+            },
+        "OpeningHours": "07:45 - 16:30",
+        "MinimumAge": 0,
+        "Image": "../static/images/Austurborg.jpg",
+        "AvailableActivities": {
+            "Infant-Swings" : true,
+            "Tire-Swings" : true,
+            "Ballance-Swings" : true,
+            "Big-Basket-Swings" : true,
+            "Slide": true,
+            "Sandbox": true,
+            "Climbing-Frame" : true,
+            "Castle" : true,
+            "Painted-Road" : false
+        },
+        "NearbyFacilities": {
+            "Parking" : true,
+            "Toilets" : true,
+            "Food & Drinks" : true
+        }
     }
 ]
